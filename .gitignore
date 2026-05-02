@@ -1,0 +1,42 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+
+# Android
+.android/
+.gradle/
+local.properties
+*.iml
+*.hprof
+*.apk
+*.aab
+
+# iOS
+.ios/
+ios/Pods/
+ios/.symlinks/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
