@@ -147,3 +147,7 @@ This project is provided for educational and research purposes.
 - Trained on maize leaf disease dataset with 7 classes
 - Model architecture: 15-layer CNN with BatchNorm and Dropout
 - Conversion to TensorFlow Lite for mobile deployment# corn_leaf_disease_detection
+
+
+
+check my kaggle atuls1124 for dataset
